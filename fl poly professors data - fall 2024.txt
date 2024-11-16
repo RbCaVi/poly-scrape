@@ -1,0 +1,556 @@
+ahs;dr. patrick luck, ph.d.;associate professor of history;pluck;8511;ist-2068
+amh 2020;1;mwf;1300;1350;barc-1158
+amh 2020;2;mwf;1400;1450;barc-1158
+his 3930;;mwf;1000;1050;barc-1159
+mwf;1100;1200
+na;lynn paredes-manfredi;political science / american government;;;ist-2066
+tr;1100;1215
+ahs;dr. kathleen hardesty, ph.d.;instructor;khardesty;8649;ist-2065
+enc 2210;1;tr;1100;1215;ist-1060
+enc 2210;2;tr;0930;1045;ist-1062
+enc 2210;3;tr;1400;1515;ist-1064
+enc 2210;4;tr;1530;1645;ist-1065
+tr;1230;1330
+w;1200;1300
+ahs;dr. c. wylie. lenz, ph.d.;associate professor;clenz;8565;ist-2064
+enc 1101;;tr;0930;1045;ist-1060
+enc 1101;;tr;1230;1345;ist-1060
+lit 4930;;tr;1400;1515;ist-1060
+twr;1100;1200
+a;;
+ahs;dr. elizabeth kelly, ph.d.;instructor;ekelly;8807;ist-2062
+enc 1101;;mwf;1000;1050;ist-1062
+enc 1101;;mwf;1400;1450;ist-1062
+enc 1101;;mwf;1200;1350;ist-1062
+m;0845;0945
+w;0845;0945
+f;0845;0945
+na;writing center;writing center;;;ist-
+mwf;1300;1630
+tr;1100;1400
+na;norman defilippo;;ndefilippo;;ist-2057 (no)
+mwf;0950;1050
+na;dr. kenneth hawkins;;;;ist-2057 (?)
+enc 1101;;;;;
+tr;1100;1300
+na;dr. michael arvanitopoulos;;;;ist-2057
+tr;1500;1600
+am;dr. luka mernik, ph.d.;assistant professor;lmernik;8573;ist-2025
+mac 2311;;mtwf;0900;0950;ist-1003
+mac 2311;;mtwf;1000;1050;ist-1003
+sls 2930;;t;1400;1450;barc-1159
+mwf;1400;1500
+a;;
+am;dr. satyajith (SJ) boyana, ph.d;assistant professor;sbommanaboyana;8573;ist-2024
+mac 1147;;mtwf;0900;0950;ist-1017
+mac 1147;;mtwf;1000;1050;ist-1017
+mwf;1200;1300
+t;a;a
+am;dr. dipali swain, ph.d.;assistant professor;dswain;8810;ist-2023
+mac 1147;3;mtwf;1100;1150;ist-1003
+mac 1147;5;mtwf;1500;1550;ist-1003
+mtwf;1230;1400
+a;;
+am;dr. alexander joyce, ph.d;assistant professor;ajoyce;8689;ist-2022
+mac 2311;;mtwf;1300;1350;ist-1067
+mad 2104;2;mwf;1000;1050;ist-1067
+mad 2104;3;mwf;1200;1250;ist-1002
+m;1400;1500
+t;1000;1100
+w;0900;1000
+am;dr. ranses alfonso rodriguez, ph.d;assistant professor;ralfonsorodriguez;8687;ist-2021
+map 4314;;mwf;1300;1350;ist-1012
+sta 3032;;mwf;1100;1150;ist-1012
+sta 3032;;mwf;1400;1450;ist-1012
+mf;1200;1300
+w;1000;1100
+am;dr. justin hoffmeier, ph.d.;associate professor;jhoffmeier;8678;ist-2020
+maa 4102;;mwf;1500;1550;ist-1044
+map 2302;;mwf;1000;1050;ist-1044
+map 2302;;mwf;1100;1150;ist-1044
+mwf;1300;1400
+am;dr. elizabeth hale, ph.d.;assistant professor;ehale;8490;ist-2018
+mac 2311;;mtwf;1400;1450;ist-1002
+mac 2311;;mtwf;1500;1550;ist-1002
+mwf;1030;1130
+a;;
+am;dr. michael brilleslyper, ph.d.;department chair / professor;mbrilleslyper;8610;ist-2019
+maa 4402;;mwf;1100;1150;ist-1067
+sls 2930;;w;1300;1350;ist-1044
+mtf;1300;1350
+a;;
+am;dr. jaeyoun oh, ph.d.;instructor;joh;8502;ist-2017
+mac 2313;;mtwf;1100;1150;ist-1015
+mac 2313;;mtwf;1400;1450;ist-1065
+map 3253;;mwf;0900;0950;ist-1065
+mwf;1200;1300
+am;dr. joshua drouin, ph.d.;assistant professor;jdrouin;8847;ist-2015
+mad 2104;1;mwf;0900;0950;ist-1014
+mad 2104;4;mwf;1400;1450;ist-1017
+mas 3105;;mwf;1000;1050;ist-1014
+mwf;1100;1200
+am;dr. somak das, ph.d.;assistant professor;sdas;8523;ist-2014
+mas 3114;2;mwf;1200;1250;ist-1045
+mas 3114;4;mwf;1400;1450;barc-1159
+ids 1721;7;tr;1400;1515;ist-1026
+mwf;1300;1350
+tr;1300;1330
+am;dr. ala alnaser, ph.d.;associate professor;aalnaser;8531;ist-2012
+mas 3114;1;mwf;1000;1050;ist-1015
+mas 3114;3;mwf;1300;1350;ist-1015
+sta 3162;;mwf;1400;1450;ist-1015
+mwf;1100;1200
+am;dr. jared bunn, ph.d.;assistant professor;jbunn;8515;ist-2011
+mac 1147;;mtwf;1300;1350;ist-1017
+mac 2312;;mtwf;1100;1150;ist-1017
+sls 2930;;w;1400;1450;barc-1142
+mwf;1600;1700
+am;dr. bernadette mullins, ph.d.;associate professor;bmullins;8553;ist-2009
+mac 1147;;mtwf;1400;1450;ist-1003
+sta 2023;1;mwf;0900;0950;ist-1012
+sta 2023;2;mwf;1000;1050;ist-1012
+m;1500;1600
+t;1300;1350
+w;1200;1300
+f;1100;1200
+a;;
+am;dr. adam rumpf, ph.d.;instructor;arumpf;8621;ist-2008
+mac 2312;;mtwf;0900;0950;ist-1002
+mac 2312;;mtwf;1000;1050;ist-1002
+ids 1380;;tr;1530;1645;ist-1014
+mtwf;1100;1200
+t;1400;1500
+am;dr. michael pilla, ph.d.;assistant professor;mpilla;8662;ist-2007
+mac 2312;;mtwf;1300;1350;ist-1045
+mac 2312;;mtwf;1400;1450;ist-1044
+mwf;1100;1200
+am;dr. aaron bardall, ph.d.;instructor;abardall;8603;ist-2005
+mac 2313;;mtwf;0900;0950;ist-1015
+mac 2313;;mtwf;1300;1350;ist-1065
+ids 1380;;tr;1400;1515;ist-1048
+mt;1000;1100
+w;1145;1245
+am;dr. manoj lamichhane, ph.d.;senior instructor;mlamichhane;8417;ist-2004
+mac 2311;;mtwf;1100;1150;ist-1002
+mac 2311;;mtwf;1300;1350;ist-1002
+sta 3032;;mwf;1000;1050;ist-1045
+mwf;1200;1300
+am;dr. austin anderson, ph.d.;assistant professor;aanderson;8457;ist-2002
+mac 2311;;mtwf;1100;1150;ist-1014
+map 2302;3;mwf;1200;1250;ist-1014
+map 2302;5;mwf;1400;1450;ist-1014
+t;1330;1530
+f;0930;1030
+
+
+
+
+
+
+ph;dr. pedro manrique;visiting assistant professor of physics;pmanrique;8647;barc-2276
+phy 2048;3;mwf;1100;1150;ist-1048
+phy 2048;7;mwf;1600;1650;ist-1003
+phy 2049l;3;t;1500;1650;ist-1053
+phy 2049l;10;f;1300;1450;ist-1053
+mw;1300;1400
+t;1100;1200
+ph;dr. justin reyes;instructor of physics;jreyes;8439;barc-2275
+phy 2048;4;mwf;1300;1350;ist-1014
+phy 2048;5;mwf;1400;1450;ist-1067
+phy 2048l;5;w;1000;1150;ist-1051
+phy 2048l;7;w;1500;1650;ist-1051
+phy 2048l;11;f;1000;1150;ist-1051
+phy 2048l;13;f;1500;1650;ist-1051
+m;1100;1200
+wf;1200;1300
+ph;dr. emadelden fouad;instructor of physics;efouad;8617;barc-2274
+phy 2048l;6;w;1300;1450;ist-1051
+phy 2048l;12;f;1300;1450;ist-1051
+phy 2049;1;mwf;0900;0950;ist-1049
+phy 2049;2;mwf;1000;1050;ist-1049
+phy 2049;5;mwf;1500;1550;ist-1049
+mf;1100;1200
+w;1200;1300
+ph;dr. bradford barker;assistant professor of physics;bbarker;8527;barc-2271
+ids 1721;;tr;1100;1215;barc-2220
+ids 1721;;tr;1230;1345;ist-1032
+phz 3151c;;tr;1500;1650;barc-1159
+mwf;1300;1400
+ph;dr. evan adamek;assistant professor of physics;eadamek;8524;barc-2270
+phy 2049;3;mwf;1100;1150;ist-1049
+phy 2049;4;mwf;1300;1350;ist-1049
+phy 4602;;tr;0930;1045;barc-1142
+m;1400;1500
+t;1100;1200
+f;1000;1100
+ee;dr. vijaya sista venkata;instructor of environmental engineering;vsista;8483;barc-2269
+chm 2045;2;mwf;0900;0950;ist-1068
+chm 2045;6;mwf;1400;1450;ist-1068
+chm 2045;9;mwf;1500;1550;ist-1045
+chm 2045l;9;w;1000;1150;barc-2207
+chm 2045l;10;w;1000;1150;barc-2209
+chm 2045l;15;r;1000;1150;barc-2207
+chm 2045l;16;r;1000;1150;barc-2209
+chm 2045l;17;f;1000;1150;barc-2207
+chm 2045l;18;f;1000;1150;barc-2209
+m;1100;1200
+wr;1200;1300
+ph;dr. nathan dawson;associate professor of physics;ndawson;8618;barc-2267
+phy 2048l;1;t;1000;1150;ist-1051
+phy 2048l;2;t;1300;1450;ist-1051
+phy 2048l;6;w;1500;1650;ist-1053
+phy 4221;;mwf;1300;1350;barc-1123
+m;1100;1150
+w;1400;1450
+f;1200;1250
+ee;dr. yudi wu; assistant professor of environmental engineering;ywu;8526;barc-2265
+evr 1001l;;f;1000;1150;ist-1052
+evr 1001l;;f;1300;1450;ist-1052
+ids 1380;1;tr;0930;1045;ist-1048
+ids 1380;5;tr;1230;1345;ist-1068
+tr;1100;1200
+f;0900;1000
+ee;dr. ajeet kaushik;assistant professor of environmental engineering;akaushik;8745;barc-2263# akaushiki on door
+chm 2045;1;mwf;0800;0850;ist-1068
+chm 2045l;11;w;1300;1450;barc-2207
+chm 2045l;12;w;1300;1450;barc-2209
+chm 2045l;13;r;0800;0950;barc-2207
+chm 2045l;14;r;0800;0950;barc-2209
+chm 2046;1;mwf;1000;1050;barc-1158
+chm 2046l;1;r;1500;1650;barc-2209
+r;0900;1200
+ee;dr. tracy olin;senior instructor of environmental engineering;tolin;8491;barc-2262
+chm 2045;4;mwf;1000;1050;ist-1068
+chm 2045;5;mwf;1100;1150;ist-1068
+chm 2045;7;mwf;1400;1450;ist-1014
+chm 2045l;1;t;0800;0950;barc-2207
+chm 2045l;2;t;0800;0950;barc-2209
+chm 2045l;3;t;1000;1150;barc-2207
+chm 2045l;4;t;1000;1150;barc-2209
+mw;0900;1000
+f;1200;1300
+ee;dr. jun kim;assistant professor of environmental engineering;junkim;8494;barc-2260
+env 2001;;mwf;0900;0950;ist-1044
+ids 1721;;mw;1100;1215;barc-2220
+mwf;1000;1100
+ee;dr. derek henderson;assistant professor of environmental engineering;dhenderson;8541;barc-2259
+cwr 4202;;tr;1530;1645;ist-1067
+env 3004c;;tr;1230;1345;ist-1052
+tr;1100;1200
+tr;1400;1500
+w;1300;1500
+ee;dr. malak anshassi;assistant professor of environmental engineering;manshassi;8601;barc-2258
+env 3049;;tr;0930;1045;ist-1065
+env 4341;;mw;1600;1715;ist-1049
+ids 1380;4;tr;1100;1215;ist-1048
+mtr;1430;1530
+mtr;1650;1750
+ee;dr. xiaofan "caleb" xu;assistant professor of environmental engineering;xxu;8608;barc-2257
+env 3008;;tr;1100;1215;ist-1012
+env 3048;;tr;1400;1515;barc-2220
+twr;1230;1400
+cs;dr. bayazit karaman;assistant professor of computer science;bkaraman;8436;barc-2224
+cap 4612;;mwf;1000;1050;ist-1030
+cap 4612;;mwf;1300;1350;ist-1030
+cop 3337;;mwf;1200;1250;ist-1030
+ids 5970;;;;;
+mf;0900;1000
+w;1400;1500
+a;;
+cs;dr. luis jaimes;associate professor of computer science;ljaimes;8609;barc-2225
+cop 4610;;tr;0930;1045;ist-1026
+cop 4610;;tr;1230;1345;ist-1026
+cop 4610;;tr;1530;1645;ist-1026
+ids 5970;;;;;
+ids 5975;;;;;
+m;1300;1400
+tr;1400;1500
+cs;dr. karim elish;associate professor of computer science;kelish;8646;barc-2227
+cen 4065;;mwf;1300;1350;ist-1026
+cen 3820;;mwf;1500;1550;ist-1065
+cop 4934;;mwf;1200;1250;ist-1067
+ids 5970;;;;;
+mat 4910;;mwf;1200;1250;ist-1067
+m;1100;1200
+wf;1400;1500
+phc;dr. ian bentley;professor of physics;ibentley;8615;barc-2228
+phy 2048;1;mwf;0900;0950;ist-1048
+phy 2048;2;mwf;1000;1050;ist-1048
+m;1100;1200
+w;0800;0900
+f;1200;1300
+cs;dr. ujan mukhopadhyay;assistant professor of computer science;umukhopadhyay;8576;barc-2229
+cop 4934;;mwf;1200;1250;ist-1065
+cis 4369;;mwf;1500;1550;barc-2220
+cis 4203;;mwf;1600;1650;barc-2220
+mwf;1300;1430
+tr;1300;1600
+a;;
+cs;dr. bradford towle jr.;assistant professor of computer science;btowle;8529;barc-2230
+cap 4052;;mwf;1000;1050;ist-1032
+cop 4610;;mwf;1300;1350;ist-1032
+cop 4610;;mwf;1500;1550;ist-1032
+ids 5970;;;;;
+mwf;1110;1250
+cs;dr. muhammad abid;associate professor of computer science;mabid;8658;barc-2231
+cen 4721;;mwf;1000;1050;ist-1028
+cop 3337;;mwf;1100;1150;ist-1032
+cop 4531;;mwf;1200;1250;ist-1017
+mwf;0850;0950
+a;;
+na;dr. shahram taj;professor and DSBA department chair;staj;8521;barc-2232
+man 5596;;mw;1500;1615;barc-1158
+mwr;1300;1450
+cs;dr. abdelwahab hamam;assistant professor of computer science;ahamam;8769;barc-2233
+cap 4034;;mwf;0900;0950;ist-1026
+cen 4722;;mwf;1100;1150;ist-1026
+cen 4722;;tr;0930;1045;ist-1044
+ids 5970;;;;;
+mwf;1000;1100
+na;dr. asai asaithambi;professor and department chair of computer science;aasaithambi;8886;barc-2234
+cop 5090;;tr;1100;1215;ist-1045
+tr;1230;1330
+w;1400;1500
+cs;dr. feng-jen yang;associate professor of computer science;fyang;8522;barc-2235
+cen 3820;;tr;1100;1215;ist-1065
+cen 3820;;tr;1530;1645;barc-1123
+cop 5272;;tr;1230;1345;ist-1014
+twr;1400;1500
+cs;dr. paniz abedin;assistant professor of computer science;pabedin;8535;barc-2236
+cop 4531;;mw;1600;1715;ist-1017
+cop 4531;;tr;1100;1215;ist-1044
+ids 1721;;tr;1530;1645;barc-2220
+m;1500;1600
+tr;1300;1400
+cs;dr. sathish akula;assistant professor of computer science;sakula;8869;barc-2237
+cen 5728;;mwf;1100;1150;ist-1027
+cop 2080;;mw;1000;1050;ist-1026
+cop 2080;;mw;1500;1550;ist-1028
+mw;1300;1400
+f;1000;1100
+ph;dr. suresh gnawali;visiting assistant professor of physics;sgnawali;8809;barc-2238
+phy 2048;6;mwf;1500;1550;ist-1048
+phy 2048l;8;r;1000;1150;ist-1051
+phy 2048l;9;r;1300;1450;ist-1051
+phy 2048l;10;r;1500;1650;ist-1051
+phy 2049l;4;w;1000;1150;ist-1053
+phy 2049l;5;w;1300;1450;ist-1053
+phy 2049l;9;f;1000;1150;ist-1053
+mf;1300;1400
+w;1600;1700
+cs;dr. denis ulybyshev;assistant professor of computer science;dulybyshev;8537;barc-2239
+cnt 3004;;mwf;1700;1750;ist-1028
+cop 3729;;mwf;1500;1550;ist-1012
+cop 4934;;mwf;1200;1250;ist-1068
+m;1600;1650
+w;1330;1445
+f;1000;1100
+dsba;dr. bijun wang;assistant professor of business analytics;bwang;8709;barc-1105
+egs 3625;;tr;1730;1845;ist-1014
+egs 5645;;tr;1930;2045;barc-1123
+man 3520;;tr;1400;1515;ist-1014
+tr;1530;1630
+w;1100;1200
+dsba;dr. artem malinin;assistant professor of data science and business analytics;amalinin;8512;barc-1106
+acg 2020;;tr;1230;1345;ist-1064
+fin 4501;;tr;1100;1215;barc-1123
+fin 5406;;tr;1800;1915;barc-1123
+tr;1500;1600
+w;1300;1400
+dsba;dr. parisa hajibabaee;assistant professor of data science;phajibabaee;8559;barc-1107
+cap 4770;;mwf;1100;1150;ist-1064
+man 3504;;mwf;1300;1350;ist-1060
+man 3570;;mw;1600;1715;barc-1123
+mwf;1000;1100
+dsba;dr. abdulaziz alhamadani;assistant professor of data science and business analytics;aalhamadani;8656;barc-1108
+cap 5765;;tr;1400;1515;ist-1015
+cap 5771;;tr;1530;1645;barc-1158
+t;1100;1200
+w;1300;1400
+f;1100;1230
+a;;
+miecec;dr. matt bohm;professor of mechanical engineering;mbohm;8616;barc-1109
+eml 4950c;;mwf;1200;1250;ist-1064
+env 4941;;mwf;1200;1250;ist-1064
+eel 4914;2;mwf;1200;1250;ist-1064
+env 5554;;tr;1400;1515;ist-1012
+m;1400;1500
+wf;1300;1400
+dsba;dr. james dewey;associate professor of business analytics;jdewey;8525;barc-1110
+idc 4942;;mwf;1200;1250;barc-1123
+mat 4910;;mwf;1200;1250;barc-1123
+eco 4422;;mw;1730;1845;ist-1014
+ids 5970;;;;;
+mf;1300;1400
+w;1100;1145
+ce;dr. sanjeeta ghimire;assistant professor of civil engineering;sghimire;8841;barc-1111
+ids 1380;2;tr;0930;1045;ist-1012
+ids 1721;;tr;1230;1345;ist-1028
+egn 2001c;;tr;1100;1215;ist-1028
+tr;1400;1500
+w;1100;1200
+cs;dr. ayesha s. dina;assistant professor of computer science;adina;8449;barc-1112
+cnt 3004;;tr;0930;1045;ist-1030
+cnt 3004;;tr;1230;1345;ist-1030
+cnt 4409;;tr;1400;1515;ist-1030
+mtr;1100;1200
+a;;
+ce;dr. guven kiymaz;assistant professor of civil engineering;gkiymaz;8644;barc-1113
+egn 2001c;2;tr;0930;1045;ist-1032
+egn 2001c;7;tr;1530;1645;ist-1032
+ids 1380;3;tr;1100;1215;ist-1068
+twr;1230;1330
+dsba;dr. susan lefrancois;associate professor of data science;slefrancois;8528;barc-1114
+ids 2144;;mwf;1300;1350;ist-1048
+ids 2144;;mwf;1400;1450;ist-1045
+mwf;1100;1150
+cs;christian navarro, m.s.;senior instructor of computer science;cnavarro;8877;barc-1191
+cnt 3004;;mwf;0900;0950;ist-1030
+cnt 3004;;mwf;1200;1250;ist-1028
+cop 2080;;mw;1100;1150;ist-1030
+cop 2080;;mw;1300;1350;ist-1028
+cop 2080;;mw;1500;1550;ist-1030
+mwf;1000;1100
+me;dr. manoj sargunaraj;visiting assistant professor of mechanical engineering;msargunaraj;8694;barc-1190
+egn 2001c;6;tr;1530;1645;ist-1030
+egn 3015c;5;tr;0900;1050;ist-1063
+egn 3343;;mwf;0900;0950;ist-1045
+m;1000;1100
+wf;1100;1200
+cs;dr. xianping wang;assistant professor of computer science;xianpingwang;8744;barc-1189
+cai 4304;;tr;1100;1215;barc-1159
+cnt 5715;;tr;1400;1515;ist-1028
+cis 4367;;tr;1530;1645;ist-1028
+m;1400;1540
+tr;0930;1040
+a;;
+cs;dr. arijet sarker;assistant professor of computer science;asarker;8635;barc-1188
+cap 4612;;tr;1400;1515;ist-1032
+cop 3337;;mwf;1200;1250;ist-1032
+cop 3337;;mwf;1600;1650;ist-1032
+tr;1530;1630
+w;1700;1800
+cs;dr. sarker monojit asish;assistant professor of computer science;sasish;8581;barc-1187
+cop 3530;;mwf;0900;0950;ist-1028
+cop 4531;;mwf;1100;1150;ist-1045
+cop 4531;;mwf;1200;1250;ist-1015
+mwf;1000;1100
+me;dr. sanna siddiqui;assistant professor of mechanical engineering;ssiddiqui;8564;barc-1186
+eas 4200;;mw;1600;1715;ist-1044
+eml 4234;;mwf;1400;1450;barc-1159
+mw;1300;1400
+f;1500;1600
+me;dr. daren watson;assistant professor of mechanical engineering;dwatson;8550;barc-1185
+egn 3015c;2;mw;1200;1350;ist-1063
+egn 3343;3;mwf;0900;0950;ist-1060
+egn 4715;;tr;1100;1215;ist-1064
+mtw;1000;1100
+me;dr. edwar romero-ramirez;associate professor of mechanical engineering;eromeroramirez;8808;barc-1184# directory says phone 8808 + door says 8608
+egn 3015c;3;tr;1530;1720;ist-1063
+eml 3535c;;tr;1400;1515;ist-1067
+eml 3811;;mwf;1100;1150;barc-1142
+tr;1300;1400
+w;1400;1500
+me;dr. musa norouzian reykandeh;associate professor of mechanical engineering;mnorouzian;8534;barc-1183
+egn 3015c;;mw;1000;1150;ist-1063
+egn 3311;2;mwf;1400;1450;ist-1049
+ids 1721;;tr;1100;1215;ist-1030
+trf;1500;1600
+ee;dr. lorraine laguerre;chemistry instructor;llaguerrevansickle;8679;barc-1182
+chm 2045;3;mwf;0900;0950;ist-1067
+chm 2045;8;mwf;1500;1550;ist-1014
+chm 2045;10;mwf;1000;1050;ist-1060
+chm 2045l;5;t;1300;1450;barc-2207
+chm 2045l;6;t;1300;1450;barc-2209
+chm 2045l;7;t;1500;1650;barc-2207
+chm 2045l;8;t;1500;1650;barc-2209
+mf;1130;1230
+w;1330;1430
+me;dr. mary vollaro;professor of mechanical engineering;mvollaro;8604;barc-1180
+egn 3365;;mwf;1000;1050;ist-1064
+ids 1380;6;tr;1230;1345;ist-1012
+egn 1006;;w;1600;1650;ist-1067
+egn 1006;;r;1500;1550;ist-1002
+twr;1100;1200
+me;dr. chris kelley;assistant professor of mechanical engineering;ckelley;8587;barc-1179
+eml 3811;;mwf;1100;1150;barc-1142
+mw;1200;1300
+t;1100;1200
+me;dr. elisabeth kames;assistant professor of mechanical engineering;ekames;8563;barc-1178
+egn 2001c;5;tr;1100;1215;ist-1032
+eml 4264;;tr;1230;1345;ist-1003
+eml 4950c;;mwf;1200;1250;ist-1012
+egn 1006;;m;1500;1550;ist-1067
+egn 1006;;m;1600;1650;ist-1014
+egn 1006;;m;1600;1650;ist-1067
+egn 1006;;r;1500;1550;ist-1003
+egn 1006;;t;1600;1650;ist-1003
+egn 1006;;w;1500;1550;ist-1067
+eml 5554;;tr;1400;1515;ist-1012
+tr;1000;1100
+w;1400;1500
+me;dr. gerardo carbajal;associate professor of mechanical engineering;gcarbajal;8760;barc-1177
+egn 5470;;tr;1530;1645;ist-1017
+eml 3015;;tr;1100;1215;ist-1049
+eml 4140;;tr;0930;1045;barc-2220
+mf;1100;1200
+w;1400;1500
+me;dr. apurva patel;assistant professor of mechanical engineering;apurvapatel;8551;barc-1176# directory 8551 - door 8602
+egn 4350c;;mw;0800;0850;ist-1014
+egn 4350c;;f;0800;0950;ist-1032
+eml 4500;;tr;1530;1645;ist-1015
+m;0900;1000
+t;1000;1100
+w;1430;1530
+r;1300;1500
+me;dr. younggil park;associate professor of mechanical engineering;ypark;8606;barc-1175
+eel 3287;;mwf;1300;1350;barc-1159
+egn 3343;;mwf;1100;1150;ist-1062
+eml 4140;2;tr;1230;1345;barc-2220
+mwr;1400;1500
+me;dr. navindra wijeyeratne;assistant professor of mechanical engineering;nwijeyeratne;8516;barc-1174
+egn 3311;1;mwf;0900;0950;ist-1064
+egn 3331;;mwf;1100;1150;barc-1123
+ids 1721;;mw;1230;1345;barc-2220
+mwf;0955;1055
+me;dr. alexander murphy;assistant professor of mechanical engineering;amurphy;8598;barc-1173
+cop 4934;;mwf;1300;1350;ist-1003
+cop 4935;;mwf;1300;1350;ist-1003
+eel 4914;;mwf;1300;1350;ist-1003
+eel 4915;;mwf;1300;1350;ist-1003
+egn 3321;1;tr;1530;1645;ist-1049
+eml 4950c;;mwf;1300;1350;ist-1003
+eml 4951c;;mwf;1300;1350;ist-1003
+mat 4910;;mwf;1300;1350;ist-1003
+mat 4911;;mwf;1300;1350;ist-1003
+eml 5554;;tr;1400;1515;ist-1012
+tr;1230;1330
+w;1400;1500
+me;samuel de oliveira, m.s.;instructor of mechanical engineering;sdeoliveira;8850;barc-1172
+egn 2001c;1;tr;0800;0915;ist-1028
+egn 2001c;3;tr;0930;1045;ist-1028
+ids 1380;8;tr;1400;1515;ist-1049
+egn 1006;;r;1600;1650;ist-1012
+egn 1006;;f;1500;1550;ist-1067
+egn 1006;;f;1600;1650;ist-1067
+me;dr. kais jribi;assistant professor of mechanical engineering;kjribi;8625;barc-1171
+eas 4200;;mw;1600;1715;ist-1048
+egn 3311;;mwf;1200;1250;ist-1044
+m;1315;1415
+w;1400;1500
+f;1030;1130
+ie;dr. ebisa wollega;associate professor of indistrial engineering;ewollega;8684;barc-1170
+egn 3015c;4;tr;1230;1420;ist-1063
+egn 4611;;mwf;1000;1050;barc-1123
+ids 1380;9;tr;1530;1645;ist-1064
+tr;1430;1530
+w;1100;1200
+
+
+
+
+
+
+
+
+
