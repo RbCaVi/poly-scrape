@@ -9,56 +9,7 @@ del events['day']
 import datetime
 today = datetime.date(year = y, month = m, day = d)
 
-'''
-['StatusId', 'StatusTypeId', 'IsAllDayEvent', 'Id']
-print()
-for x in sorted({(e['Building'], e['BuildingId'], e['Location'], e['RoomId'], e['RoomType'], e['RoomTypeId'], e['RoomCode'], e['Room']) for e in events.values()}):
- print(x)
-
-print()
-for x in sorted({(e['Building'], e['BuildingId']) for e in events.values()}):
- print(x)
-
-print()
-for x in sorted({(e['RoomType'], e['RoomTypeId']) for e in events.values()}):
- print(x)
-
-print()
-for x in sorted({(e['Building'], e['BuildingId'], e['Location'], e['RoomId'], e['RoomCode'], e['Room']) for e in events.values()}):
- print(x)
-'''
-'''
-def allunique(xss):
- l = len(xss)
- return all([len(set(xs)) == l for xs in zip(*xss)])
-'''
-b = lambda ks: {tuple(e[k] for k in ks) for e in events.values()}
-'''
-a = lambda ks: allunique(b(ks))
-'''
 import itertools as it
-'''
-kss = [sum(ks, []) for ks in it.product(*[[[], [k]] for k in next(iter(events.values())).keys()])]
-kssm = {tuple(ks) for ks in kss if a(ks)}
-
-print(len(kss), len(kssm))
-top = [x for x in kssm if len({y for y in kssm if set(x).issubset(set(y)) and x != y}) == 0]
-'''
-'''
-# the code above usually gives this result
-top = [('Id',), ('Building', 'BuildingId'), ('EventEnd',), ('Location', 'Room', 'RoomCode', 'RoomId'), ('StatusTypeId',), ('RoomTypeId', 'RoomType'), ('StatusId',), ('IsAllDayEvent',), ('EventName',), ('GroupName',), ('EventStart',)]
-
-c = lambda ks1, ks2: len(b(ks1)) == len(b(ks1 + ks2))
-
-deps = sorted((ks1, ks2) for ks1 in top for ks2 in top if c(ks1, ks2) and ks1 != ks2)
-
-depis = [(top.index(ks1), top.index(ks2)) for ks1,ks2 in deps]
-for _ in range(len(deps)):
- depis = [i12 for i12 in depis if i12 not in [(i1,i4) for i1,i2 in depis for i3,i4 in depis if i2 == i3]]
-
-for i1,i2 in depis:
- print(f'{top[i1]},{len(b(top[i1]))}>{top[i2]},{len(b(top[i2]))}')
-'''
 
 cevents = [e for e in events['events'] if e['owner'] == 'Registrar']
 
