@@ -2,6 +2,8 @@ import requests
 import json
 import datetime
 
+y,m,d = 2024,11,12
+
 def fetch(url, options):
  if options.get('method') == 'POST':
   f = requests.post
@@ -22,8 +24,6 @@ def aset(d, k, v):
  d[k] = v
 
 events = {}
-
-y,m,d = 2024,11,12
 
 count = 0
 
@@ -147,7 +147,45 @@ for start in range(24):
     pass
    aset(events, x['Id'], x)
 
-events['day'] = (y, m, d)
+import re
+def extracttime(t):
+ mat = re.match(f'{y:04}-{m:02}-{d:02}T'r'(\d\d):(\d\d):00', t)
+ if mat is not None:
+  time = mat.groups()
+  return time[0] + time[1]
+ else:
+  mat = re.match(f'{y:04}-{m:02}-{d + 1:02}T'r'00:00:00', t)
+  if mat is not None:
+   return '2400'
+  else:
+   print(t, 'has no time')
+   return None
+
+eventdata = []
+for e in events.values():
+ eventdata.append({
+  'name': e['EventName'],
+  'owner': e['GroupName'], # (who scheduled the event)
+  'location': e['Location'],
+  'building': e['Building'],
+  #'BuildingId': e['BuildingId'],
+  'room': e['Room'],
+  #'RoomTypeId': e['RoomTypeId'],
+  'roomtype': e['RoomType'],
+  #'RoomCode': e['RoomCode'],
+  #'StatusId': e['StatusId'],
+  #'StatusTypeId': e['StatusTypeId'],
+  #'IsAllDayEvent': e['IsAllDayEvent'],
+  #'RoomId': e['RoomId'],
+  'start': extracttime(e['EventStart']),
+  'end': extracttime(e['EventEnd']),
+  'id': len(eventdata)
+ })
+
+events = {
+ 'day': (y, m, d),
+ 'events': eventdata,
+}
 
 import json
 with open('events.json', 'w') as f:

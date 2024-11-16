@@ -59,28 +59,23 @@ for _ in range(len(deps)):
 for i1,i2 in depis:
  print(f'{top[i1]},{len(b(top[i1]))}>{top[i2]},{len(b(top[i2]))}')
 '''
-events = [{**e, 'id': i} for i,e in enumerate(events.values())]
 
-cevents = [e for e in events if e['GroupName'] == 'Registrar']
+cevents = [e for e in events['events'] if e['owner'] == 'Registrar']
 
 import re
-def extracttime(t):
- time = re.match(f'{y:04}-{m:02}-{d:02}T'r'(\d\d):(\d\d):00', t).groups()
- return time[0] + time[1]
 
 eclasses = []
 for i,c in enumerate(cevents):
- dep,num,sec,name = re.fullmatch(r'(?:(.{3})-(\d{4}(?:C|L|))-(\d{2}(?:HB)?) )?(.*)', c['EventName']).groups()
+ dep,num,sec,name = re.fullmatch(r'(?:(.{3})-(\d{4}(?:C|L|))-(\d{2}(?:HB)?) )?(.*)', c['name']).groups()
  name = name.replace('&amp;', '&')
- #print(dep, num, sec, name, c['Room'], extracttime(c['EventStart']), extracttime(c['EventEnd']))
  eclasses.append({
   'id': i,
   'code': f'{dep} {num}' if dep is not None else '',
   'section': sec,
   'name': name,
-  'room': c['Room'],
-  'start': extracttime(c['EventStart']),
-  'end': extracttime(c['EventEnd']),
+  'room': c['room'],
+  'start': c['start'],
+  'end': c['end'],
  })
 
 day = 'MTWRF__'[today.weekday()]
