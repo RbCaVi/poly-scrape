@@ -5,7 +5,8 @@ import re
 # this is a term name from cams
 term = 'FA 2024'
 
-# put your username and password in creds.txt separated by some whitespace (space or newline would work)
+# put your cams username and password in creds.txt separated by some whitespace (space or newline would work)
+# i promise i'm not stealing your login
 with open('creds.txt') as f:
  u,pw = f.read().split()
 

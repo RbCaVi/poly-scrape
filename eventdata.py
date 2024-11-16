@@ -1,5 +1,8 @@
 import json
 
+# matches classes from ems to the merged database i made
+# for some reason, results in different counts of matched classes every time i run it
+
 with open('events.json') as f:
  events = json.load(f)
 

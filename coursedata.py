@@ -1,6 +1,16 @@
 import json
 import re
 
+# has:
+#  class code (ENC 1101)
+#  department (GEHUM)
+#  section (02)
+#  name (English Comp. 1: Expository and Argumentative)
+#  teacher name (C. Wylie / Lenz)
+#  room (IST-1060)
+#  days (TR)
+#  time (12:30 - 1:45)
+
 with open('courses.json') as f:
  courses = json.load(f)
 

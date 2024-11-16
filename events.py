@@ -2,6 +2,7 @@ import requests
 import json
 import datetime
 
+# download a day's events from fl poly ems
 y,m,d = 2024,11,12
 
 def fetch(url, options):

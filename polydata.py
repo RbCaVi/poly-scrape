@@ -1,6 +1,28 @@
 import json
 import re
 
+# merges three sources into a table of professors and a table of classes
+# sources are fl poly directory (faculty), cams (courses), and professor office door papers (profs)
+# some fields may be None if there is no matching entry in one of the sources
+# professors (mergedprofs):
+#  id (the index into the table)
+#  email and phone
+#  room
+#  department
+#  two names - faculty / office door and teacher
+#  two titles - faculty and office door
+#  office hours - dict of day (MTWRF) to list of segments {"start": "1100", "end": "1200"}
+#  type and campus - directly from faculty
+# classes / courses (mergedclasses):
+#  id
+#  code and section (MAC 2312 / 03)
+#  days (MTWF)
+#  time (11:00 - 11:50)
+#  room
+#  department - from cams
+#  name - also from cams
+#  teacher - id in mergedprofs
+
 import functools as ft, itertools as it,operator as op
 ig = op.itemgetter
 b = ft.partial
