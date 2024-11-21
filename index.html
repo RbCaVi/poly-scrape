@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>worst info ever</title>
+</head>
+<body>
+ <div id = 'classes'>
+ </div>
+ <div id = 'profs'>
+ </div>
+</body>
+<script type = "text/javascript">
+ fetch("polydata.json").then(r => r.json()).then(({classes, professors}) => {
+  window.classes = classes;
+  window.professors = professors;
+  for (const {code, section, name, department, days, start, end, room, teacher: tid} of classes) {
+   const c = document.createElement('div');
+   const codee = document.createElement('p');
+   codee.textContent = code;
+   c.append(codee);
+   const sectione = document.createElement('p');
+   sectione.textContent = section;
+   c.append(sectione);
+   const namee = document.createElement('p');
+   namee.textContent = name;
+   c.append(namee);
+   const departmente = document.createElement('p');
+   departmente.textContent = department;
+   c.append(departmente);
+   const dayse = document.createElement('p');
+   dayse.textContent = days;
+   c.append(dayse);
+   const starte = document.createElement('p');
+   starte.textContent = start;
+   c.append(starte);
+   const ende = document.createElement('p');
+   ende.textContent = end;
+   c.append(ende);
+   const roome = document.createElement('p');
+   roome.textContent = room;
+   c.append(roome);
+   const tide = document.createElement('p');
+   tide.textContent = ': ' + tid;
+   c.append(tide);
+   document.querySelector('#classes').append(c);
+  }
+  for (const {id, name, first, last, fname, title1, title2, email, phone, room, department, officehours, type, campus} of professors) {
+   const p = document.createElement('div');
+   const ide = document.createElement('p');
+   ide.textContent = id;
+   p.append(ide);
+   const namee = document.createElement('p');
+   namee.textContent = name;
+   p.append(namee);
+   const firste = document.createElement('p');
+   firste.textContent = first;
+   p.append(firste);
+   const laste = document.createElement('p');
+   laste.textContent = last;
+   p.append(laste);
+   const fnamee = document.createElement('p');
+   fnamee.textContent = fname;
+   p.append(fnamee);
+   const title1e = document.createElement('p');
+   title1e.textContent = title1;
+   p.append(title1e);
+   const title2e = document.createElement('p');
+   title2e.textContent = title2;
+   p.append(title2e);
+   const emaile = document.createElement('p');
+   emaile.textContent = email;
+   p.append(emaile);
+   const phonee = document.createElement('p');
+   phonee.textContent = phone;
+   p.append(phonee);
+   const roome = document.createElement('p');
+   roome.textContent = room;
+   p.append(roome);
+   const departmente = document.createElement('p');
+   departmente.textContent = department;
+   p.append(departmente);
+   const officehourse = document.createElement('p');
+   officehourse.textContent = officehours;
+   p.append(officehourse);
+   const typee = document.createElement('p');
+   typee.textContent = type;
+   p.append(typee);
+   const campuse = document.createElement('p');
+   campuse.textContent = campus;
+   p.append(campuse);
+   document.querySelector('#profs').append(p);
+  }
+ });
+</script>
+</html>
